@@ -10,8 +10,8 @@ Combino habilidades analíticas con una visión práctica para transformar datos
 
 * Excel avanzado
 * Power BI intermedio
-* SQL básico
-* En formación continua: Python y R
+* SQL básico (en formación contínua)
+* Python y R (por iniciar formación)
 
 
 ## [Proyectos](proyects/proyects.md)

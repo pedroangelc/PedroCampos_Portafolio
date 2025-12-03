@@ -18,4 +18,9 @@ Bienvenido a mi portafolio. Aquí muestro proyectos creados con Excel, Power BI 
 ### Dashboard en Power BI (En proceso de carga)
 ### Consultas SQL (En proceso)
 
+## Contacto
+Pedro A Campos | **[Whatsapp](wa.me/525510143383)** | 
+**[correo](pedroangelc@msn.com)** | 
+**[Linkedin](www.linkedin.com/in/pedroangelc/)**
+
 

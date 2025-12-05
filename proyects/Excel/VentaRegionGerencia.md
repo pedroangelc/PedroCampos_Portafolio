@@ -37,10 +37,7 @@ Con esta infiormación se puede visualizar la tendencia por zonas geográficas y
   </a>
 </div>
 
-<a href="https://1drv.ms/x/c/95cfc766c099b238/EXM4PE751o9LgSXwppEMdtIB0hi8CYa0iPfhLmGYLDWEgA?e=ByJwaG" 
-   target="_blank"> Abrir archivo <i>online</i>
-</a>  
-
+[Abrir archivo <i>online</i>](https://1drv.ms/x/c/95cfc766c099b238/EXM4PE751o9LgSXwppEMdtIB0hi8CYa0iPfhLmGYLDWEgA?e=ByJwaG)  
 [Descargar archivo  ](/VentaRegion-Gerencia(SinDatos).xlsx)
 
 Nota: En el archivo descargable a ha sido eliminada la hoja de datos debido a su gran tamaño y sólo se muestran las hojas interactivas como ejempo.  

@@ -37,9 +37,8 @@ Con esta infiormación se puede visualizar la tendencia por zonas geográficas y
   </a>
 </div>
 
-<a href="https://1drv.ms/x/c/95cfc766c099b238/EcmUzNbRe1hEq1sWKSvzwNUBYR2ix4JjrgZt7NeaCkl4Cg?e=ldXf8T" 
-   target="_blank">
-   Abrir archivo <i>online</i>
+<a href="https://1drv.ms/x/c/95cfc766c099b238/EXM4PE751o9LgSXwppEMdtIB0hi8CYa0iPfhLmGYLDWEgA?e=ByJwaG" 
+   target="_blank"> Abrir archivo <i>online</i>
 </a>  
 
 [Descargar archivo  ](/VentaRegion-Gerencia(SinDatos).xlsx)

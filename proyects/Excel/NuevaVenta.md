@@ -18,8 +18,21 @@ Poporcionar visibilidad de:
 - Clientes sin facturar, con facturación y tres o más facturas.
 - Clientes nuevos con facturs pagadas y adeudadas
 
+## Screenshots
+<div style="top: 10px; right: 10px;">
+  <a href="Altas_y_nueva_venta_Agosto01.jpg" target="_blank">
+    <img src="Altas_y_nueva_venta_Agosto01.jpg" style="width:420px; height:auto; border-radius:8px;">
+  </a>
+  <a href="Altas_y_nueva_venta_Agosto02.jpg" target="_blank">
+    <img src="Altas_y_nueva_venta_Agosto02.jpg" style="width:420px; height:auto; border-radius:8px;">
+  </a>
+  <a href="Altas_y_nueva_venta_Agosto03.jpg" target="_blank">
+    <img src="Altas_y_nueva_venta_Agosto03.jpg" style="width:420px; height:auto; border-radius:8px;">
+  </a>
+</div>
 
-## Archivo
-- [Altas y nueva venta](proyects/Excel/AltasNuevaNentaAgosto.xlsx)
+
+[Abrir archivo online](https://1drv.ms/x/c/95cfc766c099b238/EYU2ndqeu8xArEYhAH2KQl4BHenisIhzbUvCghriQRYKag?e=og8UH2)
+[Descargar archivo](proyects/Excel/AltasNuevaNentaAgosto.xlsx)
 
 ## [← Regresar a Proyectos/Excel](../Excel/index.md)

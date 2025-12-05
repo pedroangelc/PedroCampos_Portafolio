@@ -32,7 +32,7 @@ Poporcionar visibilidad de:
 </div>
 
 
-[Abrir archivo online](https://1drv.ms/x/c/95cfc766c099b238/EYU2ndqeu8xArEYhAH2KQl4BHenisIhzbUvCghriQRYKag?e=og8UH2)
+[Abrir archivo online](https://1drv.ms/x/c/95cfc766c099b238/EYU2ndqeu8xArEYhAH2KQl4BHenisIhzbUvCghriQRYKag?e=og8UH2)  
 [Descargar archivo](proyects/Excel/AltasNuevaNentaAgosto.xlsx)
 
 ## [← Regresar a Proyectos/Excel](../Excel/index.md)

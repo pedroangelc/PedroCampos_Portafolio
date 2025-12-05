@@ -1,14 +1,9 @@
-# Dashboard - Venta general de enero a agosto 2022
+# Reporte - Venta general (enero a agosto)
 
 ## Descripción
-Reporte de dos hojas con tableros interactivos que muestra una gráfica comparativa del total acumulado de la venta general de enero a agosto contra el año anterior.  
-Cantidades en la gráfica y porcentaje e indicador en la tabla lateral.  
-Botones interactivos que segmentan los datos por
-- Estado
-- Región
-- Gerencia
-- Centro de proceso
-- Ejecutivo
+Reporte que muestra gráficas comparativas del total acumulado de la venta de enero a agosto contra el año anterior.  
+Las graficas dan visibilidad del total general de venta y separado por línea de negocio, que en este caso llamamos "clientes"
+Las cantidades se muestran en la gráfica y en la tabla lateral, los porcentajes comparativos del mismo mes del año anerior así como la cantidad acumulada y la diferencia entre el último mes y el anetrior con íconos de estatus como referencia visual.
 
 ## Procesos aplicados
 - Extracción Y limpieza de datos

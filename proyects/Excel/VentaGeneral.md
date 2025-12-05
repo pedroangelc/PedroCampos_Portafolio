@@ -17,10 +17,10 @@ Botones interactivos que segmentan los datos por cliente, por el año anterior e
 ## Screenshot
 <div style="top: 10px; right: 10px;">
   <a href="Venta_general_Region-Gerencia.jpg" target="_blank">
-  <img src="Venta_general_Region-Gerencia.jpg" style="width:220px; height:auto; border-radius:8px;">
+  <img src="Venta_general_Region-Gerencia.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
 </div>
 
-[Descargar archivo ](proyects/Excel/VentaGeneral2022agosto.xlsx)
+[Descargar archivo ](/VentaGeneral2022agosto.xlsx)
 
 ## [← Regresar a Proyectos/Excel](../Excel/index.md)

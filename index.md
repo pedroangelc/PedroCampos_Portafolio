@@ -23,3 +23,6 @@ Busco transformar datos en acciones estratégicas que impacten directamente en l
 **Pedro A Campos**  
 **[Linkedin](//linkedin.com/in/pedroangelc/)**  |  **[e-mail](mailto:pedroangelc@msn.com)**  |  **[Whatsapp](//wa.me/525510143383)**  
 
+## Currículo profesional
+[Descargar documento](PedroCampos2025.pdf)
+
